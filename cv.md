@@ -1,6 +1,6 @@
 ###### *[rsschool-cv](https://github.com/KuprasKuper/rsschool-cv)*
 -------
-# __Pavel Kupras__
+# __Pavel Kupras (Samurai)__
 ![Pavel](https://i.pinimg.com/736x/c4/15/0f/c4150f557da818e7d5aad79c445c57f2.jpg)
 -------
 ## __Contacts__
