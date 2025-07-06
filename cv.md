@@ -4,7 +4,7 @@
 ![Pavel](https://i.pinimg.com/736x/c4/15/0f/c4150f557da818e7d5aad79c445c57f2.jpg)
 -------
 ## __Contacts__
-+ __Location:__ *Grodnyenskaya voblast, Belarus*
++ __Location:__ *Grodno region, Belarus*
 + __Phone:__ *+375 29 299-29-29*
 + __Email:__ *Kupras00@mail.ru*
 + __GitHub:__ *[KuprasKuper](https://github.com/KuprasKuper)*
@@ -20,8 +20,13 @@
 4. *Git*
 -------
 ## __Code__
-
+```javascript
+multiply = function (a, b) {
+  return a * b;
+}
+```
 ## __Experience__
+*Beginning*
 ## __Education__
 - __Universuty:__ <u>University of Civil Protection MES Belarus</u>
 -------
